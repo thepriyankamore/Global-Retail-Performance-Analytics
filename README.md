@@ -69,7 +69,7 @@ Evaluates profitability across products and store types.
 
 ### Executive Summary
 
-![Executive Summary][(Images/Screenshot 2026-07-12 181812.png)]
+![Executive Summary(Images/Screenshot 2026-07-12 181812.png)]
 
 ---
 
