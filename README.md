@@ -69,19 +69,19 @@ Evaluates profitability across products and store types.
 
 ### Executive Summary
 
-[Images]
+![Executive Summary](Images/Executive-Summary.png)
 
 ---
 
 ### Customer Demographics
 
-(Images)
+![Customer Demographics](Images/Customer-Demographics.png)
 
 ---
 
 ### Product & Store Performance
 
-(Images)
+![Product & Store Performance](Images/Product-Store-Performance.png)
 
 ---
 
