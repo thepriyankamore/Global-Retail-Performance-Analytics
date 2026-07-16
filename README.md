@@ -78,7 +78,6 @@ Evaluates profitability across products and store types.
 ![Customer Demographics](Images/Customer-Demographics.png)
 
 ---
-
 ### Product & Store Performance
 
 ![Product & Store Performance](Images/Product-Store-Performance.png)
